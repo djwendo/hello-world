@@ -1,4 +1,0 @@
-Hello.
-Open a text editor and write a couple of lines
-Couple of lines.
-Add another line of text and save.
